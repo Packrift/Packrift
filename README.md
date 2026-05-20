@@ -34,6 +34,18 @@ Packrift publishes small, dependency-free JavaScript utilities for common packag
 - Packaging cost calculator: https://packrift.com/pages/packaging-cost-calculator
 - Poly bag thickness selector: https://packrift.com/pages/poly-bag-thickness-selector
 
+## Buyer Resource Pages
+
+Packrift also keeps public buyer pages for packaging teams comparing suppliers
+or checking exact product specs before ordering:
+
+- Uline alternatives overview: https://packrift.com/pages/best-uline-alternatives
+- Uline alternatives comparison: https://packrift.com/pages/uline-alternatives
+- 8x10x12 corrugated boxes: https://packrift.com/pages/8x10x12-boxes
+- Boxes and mailers collection: https://packrift.com/collections/boxes-mailers
+- Weather-resistant laser labels: https://packrift.com/products/2-5-8-x-1-weather-resistant-polyester-laser-labels-3000-case
+- White literature mailers: https://packrift.com/products/12-1-8-x-9-1-4-x-5-white-corrugated-literature-mailer-self-seal-50-pack
+
 ## Contact
 
 For Packrift business support, use support@packrift.com.
